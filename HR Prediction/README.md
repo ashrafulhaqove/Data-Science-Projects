@@ -7,3 +7,19 @@
 <p align="center">
   <img  src="https://github.com/ashrafulhaqove/Data-Science-Projects/blob/main/HR%20Prediction/plan.PNG">
 </p>
+
+
+
+
+## Selected Setups in Incremental Progress
+<p align="center">
+  <img  src="https://github.com/ashrafulhaqove/Data-Science-Projects/blob/main/HR%20Prediction/progress%20sheet%201.PNG">
+  <img  src="https://github.com/ashrafulhaqove/Data-Science-Projects/blob/main/HR%20Prediction/progress%20sheet%202.PNG">
+</p>
+
+
+## Results visualization
+
+<p align="center">
+  <img  src="https://github.com/ashrafulhaqove/Data-Science-Projects/blob/main/HR%20Prediction/accuracy%20graph.PNG">
+</p>
