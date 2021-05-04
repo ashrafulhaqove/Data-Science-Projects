@@ -1,5 +1,5 @@
 
-# **HR Prediction:** Predicting Whether anEmployee is looking for a new job
+# **HR Prediction:** Predicting Whether an Employee is looking for a new job or not
 
 
 ## Overview of Work Procedure
